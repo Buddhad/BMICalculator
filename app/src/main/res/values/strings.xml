@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="w_txt">Weight</string>
+    <string name="H_txt">Height</string>
+    <string name="w_num">0</string>
+    <string name="kg_txt">Kg</string>
+    <string name="centi_txt">Cm</string>
+    <string name="cal">Calculate</string>
+    <string name="you_are_healthy">You are healthy</string>
+    <string name="_22_54">22.54</string>
+    <string name="normal_range_is_18_5_24_9">(Normal range is 18.5 - 24.9)</string>
+</resources>
